@@ -48,13 +48,3 @@ The "Skill Up" project is designed to offer a modern online learning environment
 
 ## Conclusion
 Skill Up stands as a testament to the integration of modern web technologies to create a robust and user-friendly online learning platform. By addressing the diverse needs of learners and leveraging the power of React.js, Express.js, Node.js, and PostgreSQL, we have developed a solution that not only facilitates effective learning but also fosters an inclusive and engaging educational environment. This project underscores our commitment to continuous innovation and excellence in delivering educational solutions that make a meaningful impact.
-
-## Screenshots
-![Home Page](screenshots/home_page.png)
-![Course Catalog](screenshots/course_catalog.png)
-![Author Dashboard](screenshots/author_dashboard.png)
-![Publisher Dashboard](screenshots/publisher_dashboard.png)
-
----
-
-Feel free to explore the repository, open issues for any bugs, and contribute to enhancing the "Skill Up" project!
